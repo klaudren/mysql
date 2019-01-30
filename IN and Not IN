@@ -1,0 +1,5 @@
+SELECT * FROM dummysql 
+WHERE city IN ('Hebury', 'Crimburg');
+
+SELECT * FROM dummysql 
+WHERE city NOT IN ('Hebury', 'Crimburg');
