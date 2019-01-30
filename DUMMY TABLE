@@ -1,0 +1,8 @@
+create table dummysql(id integer, title varchar(100), age integer, city varchar(100) );
+INSERT INTO dummysql(id, title, age, city) VALUES (1, "Hello", 24, "Hebury" );
+INSERT INTO dummysql(id, title, age, city) VALUES (2, "Hello1", 25, "Nirmouth" );
+INSERT INTO dummysql(id, title, age, city) VALUES (5, "Hello2", 26, "Crimburg" );
+INSERT INTO dummysql(id, title, age, city) VALUES (6, "Hello3", 27, "Dota" );
+INSERT INTO dummysql(id, title, age, city) VALUES (7, "Hello4", 28, "Vlivale");
+INSERT INTO dummysql(id, title, age, city) VALUES (8, "Hello5", 29, "Iriemouth" );
+INSERT INTO dummysql(id, title, age, city) VALUES (9, "Hello6", 30, "Shey" );
