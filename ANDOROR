@@ -1,0 +1,11 @@
+SELECT id, title, age
+FROM dummysql
+WHERE age >= 26 AND AGE <= 28;
+
+SELECT id, title, age
+FROM dummysql
+WHERE title = "Hello" OR title = "Hello4";
+
+SELECT * FROM dummysql
+WHERE City = 'Hebury'
+OR (Age=30 OR Age=29);
